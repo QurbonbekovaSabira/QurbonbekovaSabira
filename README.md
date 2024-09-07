@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  //https://linkedin.com/in/sara-kim32ba462b0
 <a href="https://www.linkedin.com/in/sara-kim-32ba462b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara kim" height="30" width="40" /></a>
 <a href="https://instagram.com/sabira.qurbonbekova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabira0422" height="30" width="40" /></a>
 </p>
