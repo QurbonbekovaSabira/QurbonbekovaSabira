@@ -28,8 +28,8 @@
 <a href="https://github.com/QurbonbekovaSabira">
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QurbonbekovaSabira&theme=graywhite" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QurbonbekovaSabira&theme=graywhite" height="180em" />
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QurbonbekovaSabira&theme=graywhite" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QurbonbekovaSabira&theme=graywhite" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QurbonbekovaSabira&theme=graywhite" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QurbonbekovaSabira&theme=graywhite" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QurbonbekovaSabira&theme=graywhite" height="180em" /> -->
 </div>
 
