@@ -28,8 +28,10 @@
  <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/sass.svg"></code>
  <code><img title="React" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/react-original.svg"></code>
  <code><img title="Next.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-plain.svg"></code>
- <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
- <code><img title="WebStorm" height="25" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webstorm/webstorm-original.svg"></code>
+ <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/refs/heads/master/images/vscode.png"></code>
+<!--  <code> -->
+   <img title="WebStorm" height="25" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webstorm/webstorm-original.svg">
+<!--    </code> -->
  
 
 </p>
