@@ -1,5 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <h1 align="center">Hi 👋, I'm Sabira</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+
+## 🚀 About Me
 
 - 🔭 I’m currently working on **React.js**
 
