@@ -16,9 +16,6 @@
  <a href="https://www.linkedin.com/in/sabira-qurbonbekova-32ba462b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/23862724/sara-kim" target="_blank">
-    <img src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/stackoverflow.svg" alt="stackoverflow" />
-  </a>
   <a href="https://www.instagram.com/sabira.qurbonbekova/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -60,8 +57,6 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-<!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QurbonbekovaSabira&theme=graywhite" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QurbonbekovaSabira&theme=graywhite" height="180em" />-->
 
 </div>
 
