@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React** **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QurbonbekovaSabira](https://github.com/QurbonbekovaSabira)
 
-- 💬 Ask me about **Html,Sass,JS**
+- 💬 Ask me about **JS,Typescript, React, Next.js**
 
 - 📫 How to reach me **sarakim2224@gmail.com**
 
@@ -27,37 +27,22 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center"> 
- <code><img title="C++" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/c.svg"></code>
- <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/javascript.svg"></code>
- <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/html5.svg"></code>
- <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/css.svg"></code>
- <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/sass.svg"></code>
- <code><img title="React" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/react-original.svg"></code>
- <code><img title="Next.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-plain.svg"></code>
- <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/refs/heads/master/images/vscode.png"></code>
- <code><img title="WebStorm" height="25" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webstorm/webstorm-original.svg"></code>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,sass,tailwindcss,react,nextjs,redux,mui,figma" height="50" />
  </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-<a href="https://github.com/QurbonbekovaSabira">
- <p align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </p>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-   
-  </div>
 
-</div>
+<!--<a href="https://github.com/QurbonbekovaSabira">-->
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QurbonbekovaSabira&show_icons=true&theme=react&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QurbonbekovaSabira&layout=compact&theme=react&hide_border=true" height="180em" />
+</p>
+
+
+
+
+
 
