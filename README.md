@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/sabira.qurbonbekova/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/sara_0717" target="_blank">
+  <a href="https://t.me/SabiraQurbonbekova" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 </h5>
